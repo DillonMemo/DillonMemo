@@ -45,6 +45,8 @@ Here are some ideas to get you started:
   - Google Analytics
   - Figma
   
+  ---
+  
   <div align=center>
   
   <!-- Generate Badge : https://shields.io/ & Icons : https://simpleicons.org/ -->
