@@ -1,5 +1,7 @@
 <div align=center>
   
+  <!-- Generate Hits : https://hits.seeyoufarm.com/ -->
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdillonmemo)](https://hits.seeyoufarm.com)
 
 </div>
@@ -42,3 +44,9 @@ Here are some ideas to get you started:
 - Software
   - Google Analytics
   - Figma
+  
+  <div align=center>
+  
+  [![Blog Badge](http://img.shields.io/badge/-blog-black?style=flat-square&logo=github&link=https://dillonmemo.github.io/)](https://dillonmemo.github.io/)
+  
+  </div>
