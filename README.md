@@ -47,6 +47,7 @@ Here are some ideas to get you started:
   
   <div align=center>
   
-  [![Blog Badge](http://img.shields.io/badge/-blog-black?style=flat-square&logo=github&link=https://dillonmemo.github.io/)](https://dillonmemo.github.io/)
+  [![Blog Badge](http://img.shields.io/badge/Blog-black?style=flat-square&logo=github&link=https://dillonmemo.github.io/)](https://dillonmemo.github.io/)
+  [![Insta Badge](http://img.shields.io/badge/Instagram-#E4405F?style=flat-square&logo=instagram&link=https://www.instagram.com/dillon_jang/)](https://www.instagram.com/dillon_jang/)
   
   </div>
