@@ -45,7 +45,6 @@ Here are some ideas to get you started:
   - Google Analytics
   - Figma
   
-  ---
   
   <div align=center>
   
