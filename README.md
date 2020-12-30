@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  [![Dillon Jang's github stats](https://github-readme-stats.vercel.app/api?username=dillonmemo&count_private=true&show_icons=true&theme=dark)](https://github.com/DillonMemo/DillonMemo)
- </div>
+  [![Dillon Jang's github stats](https://github-readme-stats.vercel.app/api?username=dillonmemo&count_private=true&show_icons=true&theme=dark)](https://github.com/dillonmemo/dillonmemo)
+ 
 
 ## Skills 🤔
 
