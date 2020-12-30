@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 -->
 
   [![Dillon Jang's github stats](https://github-readme-stats.vercel.app/api?username=dillonmemo&count_private=true&show_icons=true&theme=dark)](https://github.com/dillonmemo/dillonmemo)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dillonmemo&theme=dark&layout=compact)](https://github.com/dillonmemo/dillonmemo)
  
 
 ## Skills 🤔
