@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   
   [![Blog Badge](http://img.shields.io/badge/Blog-black?style=flat-square&logo=github&link=https://arta1069.medium.com)](https://arta1069.medium.com)
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dillon-jang-b63939170/)](https://www.linkedin.com/in/dillon-jang-b63939170/)
-  [![Insta Badge](http://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dev.dillon_/)](https://www.instagram.com/dillon_jang/)
+  [![Insta Badge](http://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dev.dillon_/)](https://www.instagram.com/dev.dillon_/)
   [![About Badge](http://img.shields.io/badge/About-8D6748?style=flat-square&logo=Mocha&logoColor=white&link=https://www.notion.so/dillonmemo/Dillon-Jang-350949ffdcf44916aa0c48cae42f94ef)](https://www.notion.so/dillonmemo/Dillon-Jang-350949ffdcf44916aa0c48cae42f94ef)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arta1069@gmail.com)](mailto:arta1069@gmail.com)
   
