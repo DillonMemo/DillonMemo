@@ -22,26 +22,19 @@ Here are some ideas to get you started:
 -->
 
 
-<div style="display: flex; flex-flow: row nowrap; gap: 1rem; justify-content: space-between">
-
-<div>
+<div align=center>
 
 ### 📈 my github stats
   [![Dillon Jang's github stats](https://github-readme-stats.vercel.app/api?username=dillonmemo&show_icons=true&theme=one_dark_pro)](https://github.com/dillonmemo/dillonmemo)
 
-</div>  
-  
- 
- <div>
-
 ### 🛠 Tech Stack
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dillonmemo&theme=dark&layout=compact)](https://github.com/dillonmemo/dillonmemo)
  
- </div>
 </div>
 
 
   
+## dillon-jang <sup>Dongwon</sup>
   
   <div align=center>
   
