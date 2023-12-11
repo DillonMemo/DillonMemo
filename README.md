@@ -6,7 +6,7 @@
 
 </div>
 
-### dillon-jang <sup>Dongwon</sup>
+## dillon-jang <sup>Dongwon</sup>
 
 <!--
 **DillonMemo/dillon-jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  [![Dillon Jang's github stats](https://github-readme-stats.vercel.app/api?username=dillonmemo&count_private=true&show_icons=true&theme=dark)](https://github.com/dillonmemo/dillonmemo)
+### 📈 my github stats
+
+  [![Dillon Jang's github stats](https://github-readme-stats.vercel.app/api?username=dillonmemo&show_icons=true&theme=one_dark_pro)](https://github.com/dillonmemo/dillonmemo)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dillonmemo&theme=dark&layout=compact)](https://github.com/dillonmemo/dillonmemo)
  
